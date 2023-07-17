@@ -1,16 +1,11 @@
-# whastsapp
+**WhatsApp UI Clone in Flutter**
 
-A new Flutter project.
+  **Description**
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter project that replicates the UI of the popular messaging app, WhatsApp.
+The project uses a variety of Flutter widgets to create a realistic and functional UI.
+The project is a great way to learn about Flutter and how to build UIs for mobile apps.
+The project is also a good starting point for creating your own WhatsApp clone or other messaging app.
+The project uses the following Flutter widgets: Tabs, TabBarController, ListTiles, ListViewBuilders, etc.
+The project is built using Flutter, a cross-platform mobile development framework.
+The project is fully functional and can be used as a demo or a starting point for your own WhatsApp clone.
