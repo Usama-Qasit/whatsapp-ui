@@ -9,3 +9,7 @@ The project is also a good starting point for creating your own WhatsApp clone o
 The project uses the following Flutter widgets: Tabs, TabBarController, ListTiles, ListViewBuilders, etc.
 The project is built using Flutter, a cross-platform mobile development framework.
 The project is fully functional and can be used as a demo or a starting point for your own WhatsApp clone.
+
+# Output
+
+![Calculator](https://github.com/Usama-Qasit/whatsapp-ui/assets/139715946/ac436704-b973-40fa-9665-aff809381ceb)
