@@ -11,4 +11,8 @@ The project is built using Flutter, a cross-platform mobile development framewor
 The project is fully functional and can be used as a demo or a starting point for your own WhatsApp clone.
 
 # Output
+![whatsapp chats ui](https://github.com/Usama-Qasit/whatsapp-ui/assets/139715946/43e06b8a-2f3c-4966-a85c-f637843eb2ad)
+
+![Whatsapp status ui](https://github.com/Usama-Qasit/whatsapp-ui/assets/139715946/4dc61a7f-caf3-42b4-b210-2fd227fa57c8)
+
 
